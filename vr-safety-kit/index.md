@@ -1,4 +1,10 @@
+---
+title: VR Safety Kit
+---
+
 # VR Safety Kit – Occupational Safety Training for Meta Quest
+
+[All kits](../) · [Third-party notices](THIRD-PARTY-NOTICES.txt)
 
 A complete Unity 6 project with five interactive VR/XR occupational-safety training lessons, a lobby, scoring and reporting, and English/Vietnamese localisation. It targets Meta Quest 3 / 3S through OpenXR and is built on XR Interaction Toolkit 3.
 
@@ -102,6 +108,6 @@ The project includes EditMode and PlayMode tests (Window > General > Test Runner
 Publisher: JieYingStudio
 
 - E-mail: devirosnguyen@gmail.com
-- Online documentation: https://github.com/devirosnguyen/jieyingstudio-vr-safety-docs
+- Online documentation: https://devirosnguyen.github.io/jieyingstudio-vr-safety-docs/
 
 When reporting a problem, please include your Unity version, the lesson name and the Console log.

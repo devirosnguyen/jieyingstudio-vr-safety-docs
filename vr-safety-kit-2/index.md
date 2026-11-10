@@ -1,4 +1,10 @@
+---
+title: VR Safety Kit 2
+---
+
 # VR Safety Kit 2 – Advanced Occupational Safety Training for Meta Quest
+
+[All kits](../) · [Third-party notices](THIRD-PARTY-NOTICES.txt)
 
 A complete Unity 6 project with five advanced, fully interactive VR safety lessons for high-risk work, plus a lobby,
 Training and Assessment modes, digital permits, animated co-workers with voice-over, xAPI reporting and
@@ -192,6 +198,6 @@ lesson, including its main mistakes. Tests in `VisualCaptureTests` are explicit:
 Publisher: JieYingStudio
 
 - E-mail: devirosnguyen@gmail.com
-- Online documentation: https://github.com/devirosnguyen/jieyingstudio-vr-safety-docs
+- Online documentation: https://devirosnguyen.github.io/jieyingstudio-vr-safety-docs/
 
 When reporting a problem, please include your Unity version, the lesson name and the Console log.
