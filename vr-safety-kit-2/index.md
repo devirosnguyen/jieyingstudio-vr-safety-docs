@@ -30,7 +30,7 @@ standing under a suspended load, overloading the forklift, striking a pedestrian
 - **Training and Assessment modes.** Training shows hints, step text and step voice-over. Assessment hides them, doubles
   penalties, requires 80 % to pass and **randomises the situation** from a seed: a different chemical, a different
   damaged sling and load weight, a missing fork pin, the job pallet's position and weight, gas readings, hazards…
-- **Digital permits on a wrist tablet.** Readings are filled from the instruments (gas detector, weight tags, pallet
+- **Digital permits on a hand-held tablet** (left hand; the Menu button shows or hides it). Readings are filled from the instruments (gas detector, weight tags, pallet
   labels), never typed. Signing with a missing or unsafe value is a mistake – a critical one for unsafe readings.
 - **Co-workers.** Rigged, animated NPCs (CC0 characters) walk their routes, give way to the trainee and hold short
   voiced conversations; the trainee's choice of reply completes a step or is scored as a mistake.
