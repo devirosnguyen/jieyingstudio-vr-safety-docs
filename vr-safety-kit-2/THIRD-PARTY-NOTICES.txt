@@ -1,0 +1,29 @@
+VR Safety Kit 2 - Third-Party Notices
+=====================================
+
+This package contains the third-party components listed below.
+
+3D models - Kenney (https://kenney.nl), license: CC0 1.0 Universal (public domain)
+  - Factory Kit                         ThirdParty/Kenney/FactoryKit/        (original License.txt included)
+  - Furniture Kit                       ThirdParty/Kenney/FurnitureKit/      (original License.txt included)
+  - Survival Kit                        ThirdParty/Kenney/SurvivalKit/       (original License.txt included)
+  - Animated Characters - Protagonists  ThirdParty/Kenney/AnimatedCharacters/ (original License.txt included)
+    The worker skins in AnimatedCharacters/Skins were derived from the Kenney skins (CC0) by JieYingStudio.
+
+Textures - Poly Haven (https://polyhaven.com), license: CC0 1.0 Universal (public domain)
+  - concrete_floor_worn_001, painted_plaster_wall, plywood, metal_plate, corrugated_iron
+    ThirdParty/PolyHaven/
+
+Voice-over
+  - Demos/*/VO/en/*.wav and Demos/*/VO/npc/en/*.wav (English) and Demos/*/VO/*.wav and Demos/*/VO/npc/vi/*.wav
+    (Vietnamese) were generated with Microsoft Windows text-to-speech voices
+    ("Microsoft Zira", "Microsoft David", "Microsoft An").
+
+Original content by JieYingStudio
+  - Sound effects (Shared/Audio/sfx_*.wav): procedurally synthesised.
+  - All scripts, scenes, materials and prefabs in this package.
+
+Not included (imported from Unity packages on first open)
+  - XR Interaction Toolkit samples "Starter Assets" and "XR Interaction Simulator"
+    (Unity Companion License).
+  - TextMesh Pro Essential Resources, including Liberation Sans (SIL Open Font License 1.1).
